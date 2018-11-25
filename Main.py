@@ -2,8 +2,8 @@ import numpy as np
 import prog
 import read_minst_data
 import  random
-# Try and commit to git
 
+#delete something ?
 
 training_data, validation_data, test_data = read_minst_data.prep_data()
 print("Finished loading and preparing the data\n")
