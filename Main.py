@@ -2,6 +2,7 @@ import numpy as np
 import prog
 import read_minst_data
 import  random
+# Try and commit to git
 
 
 training_data, validation_data, test_data = read_minst_data.prep_data()
